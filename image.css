@@ -110,6 +110,14 @@ form {
   font-weight: bold;
 }
 
+.footer {
+  margin-bottom: 0;
+  font-size: 10px;
+}
+#hat {
+  color: red;
+}
+
 @media screen and (max-width: 768px) {
   .search-result {
     width: 45%;
