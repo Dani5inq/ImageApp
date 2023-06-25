@@ -115,8 +115,14 @@ form {
   font-size: 10px;
   text-align: center;
 }
+
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
 #hat {
-  color: red; 
+  color: red;
 }
 
 @media screen and (max-width: 768px) {
